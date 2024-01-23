@@ -1,0 +1,231 @@
+﻿canal_itc,dispositivo_itc,transaccion_itc,respuesta_itc,descripcion_trx_banco,descripcion_respuesta_banco
+MOV,APP,447,0,Inscripción de Factura,Transacción Exitosa
+APP,APP,1538,34,Transferencias Cuenta Nequi,Valor Por Encima De Tope Diario De Transferencia
+MOV,MOV,558,604,Transferencia Comunidad Banca Móvil,Tu Envio Supera El Tope Maximo Permitido
+APP,APP,539,0,Transferencia De Fondos Desde Cuenta De Ahorros A Inversion Fiduciaria,Transacción Exitosa
+APP,APP,529,37,Pago De Tarjeta De Credito Desde Cuenta De Ahorros,Abono Supera El Total De La Deuda
+SVP,BLP,538,690,Transferencia De Fondos Desde Cuenta De Ahorros,Transaccion No Permitida
+APP,APP,531,706,Pago De Facturas Recaudo Referenciado Desde Cuenta De Ahorros,Supera Numero De Operaciones Personalizadas
+SVP,PSE,522,5,Compra Pse Desde Cuenta De Ahorros,Respuesta No Conocida
+SVP,BLP,640,940,Avance Sucursal Virtual,Transacción Declinada
+APP,APP,638,640,Transferencia A Otros Bancos,Fecha De Aplicacion No Valida
+SVP,BLP,638,0,Transferencia A Otros Bancos,Transacción Exitosa
+SVP,PSE,422,5,Compra Pse Desde Cuenta Corriente,Respuesta No Conocida
+SVP,BLP,429,926,Pago De Tarjeta De Credito Desde Cuenta Corriente,El Abono Supera El Total De La Deuda - Tc3 - Medios De Pago
+SVP,BLP,213,0,Transferencia entre bolsillos,Transacción Exitosa
+APP,APP,549,410,Transferencia Desde Inversion Fiduciaria A Cuenta De Ahorros,Fid: Monto De Retiro Superior Al Tope Mßxim
+MOV,ALM,558,28,Envio de Dinero,Consulta No Efectuada
+MOV,ALM,558,30,Envio de Dinero,Fondos Insuficientes
+SVP,BLP,1538,0,Transferencias Cuenta Nequi,Transacción Exitosa
+SVP,BLP,531,0,Pago De Facturas Recaudo Referenciado Desde Cuenta De Ahorros,Transacción Exitosa
+MOV,MOV,558,991,Transferencia Comunidad Banca Móvil,Clave Bloqueada
+SVP,PSE,1422,0,Pago PSE con tarjeta de crédito,Transacción Exitosa
+SVP,BLP,513,382,Grabar Constitución- Fid Desde Cuenta Deposito,Error Al Procesar La Transaccion
+APP,APP,538,923,Transferencia De Fondos Desde Cuenta De Ahorros,Transacción no exitosa
+APP,APP,2021,500,Transferencia de QR,El sistema no está disponible. Estamos trabajando para solucionarlo lo más pronto posible.
+APP,APP,1638,382,Transferencia a Nequi sin inscripción ,"Lo sentimos, tenemos inconvenientes con nuestros sistemas, nuestro equipo se encuentra trabajando para brindarte una solución."
+MOV,ALM,558,116,Envio de Dinero,La Vigencia Del Pin Ha Expirado
+SVP,SVP,325,0,Simular Inversion Virtual,Transacción Exitosa
+APP,APP,1538,999,Transferencias Cuenta Nequi,Respuesta No Conocida
+APP,APP,531,107,Pago De Facturas Recaudo Referenciado Desde Cuenta De Ahorros,En este momento no es posible realizar esta transacción. Por favor intente más tarde
+SVP,PSE,522,30,Compra Pse Desde Cuenta De Ahorros,Disponible Insuficiente En Cuenta A Debitar
+SVP,BLP,531,705,Pago De Facturas Recaudo Referenciado Desde Cuenta De Ahorros,Supera Valor Maximo Personalizado
+APP,APP,1638,124,Transferencia a Nequi sin inscripción ,Transacción supera el Tope Máximo por Día
+SVP,BLP,203,0,Apertura de bolsillos,Transacción Exitosa
+SVP,BLP,346,0,Pago De Prestamos,Transacción Exitosa
+APP,APP,6010,30,Transferencias Cuenta Bancolombia (Ahorros/Corriente) A Cuenta Bancolombia (Ahorros/Corriente) Pago Qr,Fondos insuficientes en la cuenta para realizar la transferencia
+APP,APP,2021,104,Transferencia de QR,Error realizando movimiento en el TEF
+APP,APP,538,706,Transferencia De Fondos Desde Cuenta De Ahorros,Supera Numero De Operaciones Personalizadas
+SVP,BLP,538,0,Transferencia De Fondos Desde Cuenta De Ahorros,Transacción Exitosa
+APP,APP,538,600,Transferencia De Fondos Desde Cuenta De Ahorros,El Cliente Ya Posee Segunda Clave
+APP,APP,538,31,Transferencia De Fondos Desde Cuenta De Ahorros,Cuenta Destino Tiene Bloqueos
+APP,APP,6012,30,Transferencia Cuenta Bancolombia (Ahorros/Corriente) A Cuenta Nequi Pago Qr,Disponible Insuficiente En Cuenta A Debitar
+SVP,PSE,522,34,Compra Pse Desde Cuenta De Ahorros,Valor Por Encima De Tope Diario De Transferencia
+SVP,BLP,549,410,Transferencia Desde Inversion Fiduciaria A Cuenta De Ahorros,Fid: Monto De Retiro Superior Al Tope Mßxim
+APP,APP,1638,41,Transferencia a Nequi sin inscripción ,Error al procesar la transacción.
+SVP,BLP,531,706,Pago De Facturas Recaudo Referenciado Desde Cuenta De Ahorros,Supera Numero De Operaciones Personalizadas
+APP,APP,431,0,Pago De Facturas Recaudo Referenciado Desde Cuenta Corriente,Transacción Exitosa
+APP,APP,638,0,Transferencia A Otros Bancos,Transacción Exitosa
+SVP,BLP,1538,999,Transferencias Cuenta Nequi,Respuesta No Conocida
+SVP,BLP,438,690,Transferencia De Fondos Desde Cuenta Corriente,Transaccion No Permitida
+APP,APP,529,46,Pago De Tarjeta De Credito Desde Cuenta De Ahorros,"Pago No Realizado, Por Favor Intente Mas Tarde"
+APP,APP,1638,999,Transferencia a Nequi sin inscripción ,No Exitosa
+APP,APP,2021,601,Transferencia de QR,"No fue posible finalizar la transacción. Verifique su saldo antes de realizarla nuevamente. Si tiene alguna inquietud, comuníquese con nuestra Sucursal Telefónica."
+SVP,BLP,439,0,Transferencia De Fondos Desde Cuenta Corriente A Inversion Fiduciaria,Transacción Exitosa
+APP,APP,1612,0,Aceptar Solicitud,Transaccion Exitosa
+SVP,BLP,638,34,Transferencia A Otros Bancos,Valor Por Encima De Tope Diario De Transferencia
+APP,APP,1638,30,Transferencia a Nequi sin inscripción ,Disponible Insuficiente En Cuenta A Debitar
+APP,APP,2021,0,Transferencia de QR,Transacción exitosa
+MOV,MOV,202,30,Recarga De Celular,Disponible Insuficiente En Cuenta A Debitar
+APP,APP,1538,41,Transferencias Cuenta Nequi,Error Al Procesar La Transacci¾N
+SVP,PSE,422,30,Compra Pse Desde Cuenta Corriente,Disponible Insuficiente En Cuenta A Debitar
+SVP,BLP,238,0,Envío de giros Internacionales,Transacción Exitosa
+SVP,BLP,429,0,Pago De Tarjeta De Credito Desde Cuenta Corriente,Transacción Exitosa
+APP,APP,455,0,Inscripcion Y Modificacion Programacion De Facturas,Transacción Exitosa
+APP,APP,1538,30,Transferencias Cuenta Nequi,Disponible Insuficiente En Cuenta A Debitar
+APP,POSRDB,525,8344,Compra presente con cuenta de Ahorro,No Exitosa
+SVP,BLP,438,0,Transferencia De Fondos Desde Cuenta Corriente,Transacción Exitosa
+APP,APP,1638,0,Transferencia a Nequi sin inscripción ,Transacción Exitosa
+SVP,BLP,431,0,Pago De Facturas Recaudo Referenciado Desde Cuenta Corriente,Transacción Exitosa
+SVP,BLP,364,0,Pago De Credito Hipotecario,Transacción Exitosa
+SVP,BLP,638,705,Transferencia A Otros Bancos,Supera Valor Maximo Personalizado
+SVP,BLP,446,0,Desembolso Desde Cupo De Credito Audioprestamo,Transacción Exitosa
+MOV,ALM,558,0,Envio de Dinero,Transacción Exitosa
+SVP,BLP,539,441,Transferencia De Fondos Desde Cuenta De Ahorros A Inversion Fiduciaria,Fid: Error Horario Transferencias Transf A Cuentas
+SVP,PSE,522,0,Compra Pse Desde Cuenta De Ahorros,Transacción Exitosa
+APP,APP,1638,150,Transferencia a Nequi sin inscripción ,Monto Operación es superior a tope Máx. x Transacc
+APP,APP,438,34,Transferencia De Fondos Desde Cuenta Corriente,Valor Por Encima De Tope Diario De Transferencia
+APP,APP,640,30,Avance de Tarjeta de crédito por APP,Disponible Insuficiente En Cuenta A Debitar
+MOV,MOV,558,30,Transferencia Comunidad Banca Móvil,Disponible Insuficiente En Cuenta A Debitar
+APP,APP,6010,604,Transferencias Cuenta Bancolombia (Ahorros/Corriente) A Cuenta Bancolombia (Ahorros/Corriente) Pago Qr,El valor por encima del tope máximo permitido
+APP,APP,531,30,Pago De Facturas Recaudo Referenciado Desde Cuenta De Ahorros,Disponible Insuficiente En Cuenta A Debitar
+APP,APP,538,34,Transferencia De Fondos Desde Cuenta De Ahorros,Valor Por Encima De Tope Diario De Transferencia
+APP,APP,640,501,Avance de Tarjeta de crédito por APP,No Exitosa
+APP,POSRDB,525,0,Compra presente con cuenta de Ahorro,Transacción Exitosa
+APP,APP,538,604,Transferencia De Fondos Desde Cuenta De Ahorros,Valor Por Encima Del Tope Maximo Permitido
+SVP,BLP,1538,30,Transferencias Cuenta Nequi,Disponible Insuficiente En Cuenta A Debitar
+MOV,ALM,531,118,Pago con Validación de Base de Datos App ALM,Pin Ingresado No Es V┴Lido
+MOV,MOV,558,0,Transferencia Comunidad Banca Móvil,Transacción Exitosa
+SVP,BLP,446,908,Desembolso Desde Cupo De Credito Audioprestamo,"Utilizaciën No Realizada, Problemas Al Crear El Pr╔Stamo"
+APP,POSRED,525,0,Compra presente con cuenta de Ahorro,Transacción Exitosa
+APP,APP,438,0,Transferencia De Fondos Desde Cuenta Corriente,Transacción Exitosa
+SVP,BLP,212,0,Editar Bolsillos,Transacción Exitosa
+SVP,BLP,429,961,Pago De Tarjeta De Credito Desde Cuenta Corriente,Sistema No Disponible - Tc3 - Medios De Pago
+APP,APP,2021,99,Transferencia de QR,"Superaste el monto máximo de operaciones personalizadas. Puedes modificarlo ingresando a la Sucursal Virtual Personas, opción Seguridad, Editar límite de montos."
+APP,APP,283,0,Crear movimiento de efectivo de gastos,Transacción Exitosa
+APP,APP,6010,0,Transferencias Cuenta Bancolombia (Ahorros/Corriente) A Cuenta Bancolombia (Ahorros/Corriente) Pago Qr,Transacción Exitosa
+SVP,BLP,888,0,Consulta De Costo De La Transaccion,Transacción Exitosa
+APP,APP,6012,3,Transferencia Cuenta Bancolombia (Ahorros/Corriente) A Cuenta Nequi Pago Qr,La cuenta a la que deseas transferir se encuentra inactiva. Te recomendamos verificarla con el titular de la cuenta.
+APP,APP,439,0,Transferencia De Fondos Desde Cuenta Corriente A Inversion Fiduciaria,Transacción Exitosa
+APP,APP,1538,705,Transferencias Cuenta Nequi,Supera Valor Maximo Personalizado
+MOV,ALM,531,607,Pago con Validación de Base de Datos App ALM,Clave Bloqueada
+MOV,ALM,558,44,Envio de Dinero,No Exitosa
+APP,APP,538,705,Transferencia De Fondos Desde Cuenta De Ahorros,Supera Valor Maximo Personalizado
+SVP,PSE,522,997,Compra Pse Desde Cuenta De Ahorros,No Exitosa
+SVP,BLP,538,705,Transferencia De Fondos Desde Cuenta De Ahorros,Supera Valor Maximo Personalizado
+APP,POSRED,525,8348,Compra presente con cuenta de Ahorro,Fondos Insuficientes
+APP,APP,2021,97,Transferencia de QR,El valor de la transferencia supera el saldo máximo permitido.
+APP,APP,1100,0,Transferencia Desde Inversion A Inversion Fiduciaria,Transacción Exitosa
+APP,APP,640,0,Avance de Tarjeta de crédito por APP,Transacción Exitosa
+APP,APP,6012,0,Transferencia Cuenta Bancolombia (Ahorros/Corriente) A Cuenta Nequi Pago Qr,Transacción Exitosa
+MOV,MOV,202,0,Recarga De Celular,Transacción Exitosa
+SVP,BLP,513,0,Grabar Constitución- Fid Desde Cuenta Deposito,Transacción Exitosa
+APP,APP,538,30,Transferencia De Fondos Desde Cuenta De Ahorros,Disponible Insuficiente En Cuenta A Debitar
+APP,APP,1538,31,Transferencias Cuenta Nequi,Identificacion Ingresada No Corresponde Al Titular Del Encargo
+APP,APP,638,638,Transferencia A Otros Bancos,"Trn Duplicada, Ya Ha Sido Aplicada"
+APP,APP,531,705,Pago De Facturas Recaudo Referenciado Desde Cuenta De Ahorros,Supera Valor Maximo Personalizado
+SVP,BLP,638,646,Transferencia A Otros Bancos,Fondos Insuficientes En La Cuenta A Debitar
+APP,APP,346,0,Pago De Prestamos,Transacción Exitosa
+APP,APP,1638,34,Transferencia a Nequi sin inscripción ,VALOR POR ENCIMA DE TOPE DIARIO DE TRANSFERENCIA
+SVP,BLP,549,0,Transferencia Desde Inversion Fiduciaria A Cuenta De Ahorros,Transacción Exitosa
+APP,APP,640,400,Avance de Tarjeta de crédito por APP,Parametros Invalidos
+APP,APP,638,705,Transferencia A Otros Bancos,Supera Valor Maximo Personalizado
+SVP,BLP,640,400,Avance Sucursal Virtual,No Recibio Respuesta Del Servidor Destino
+SVP,BLP,539,0,Transferencia De Fondos Desde Cuenta De Ahorros A Inversion Fiduciaria,Transacción Exitosa
+MOV,ALM,558,604,Envio de Dinero,El Envío Supera Valor Permitido
+APP,APP,1538,0,Transferencias Cuenta Nequi,Transacción Exitosa
+MOV,ALM,558,118,Envio de Dinero,Pin Ingresado No Es V┴Lido
+APP,APP,204,0,Transferencia de cuenta a bolsillo,Transacción Exitosa
+APP,APP,446,0,Desembolso Crediágil,Transacción Exitosa
+SVP,BLP,531,30,Pago De Facturas Recaudo Referenciado Desde Cuenta De Ahorros,Disponible Insuficiente En Cuenta A Debitar
+APP,APP,1605,0,Enviar dinero/Solicitar dinero,Transaccion Exitosa
+MOV,ALM,558,115,Envio de Dinero,Se Generó Error En La Ejecución De Comandos Sobre La Caja Atalla
+APP,APP,529,0,Pago De Tarjeta De Credito Desde Cuenta De Ahorros,Transacción Exitosa
+MOV,MOV,558,74,Transferencia Comunidad Banca Móvil,Clave Bloqueada Por Numero Maximo De Intentos No Validos
+SVP,BLP,346,30,Pago De Prestamos,Disponible Insuficiente En Cuenta A Debitar
+SVP,BLP,449,70,Transferencia Desde Inversion Fiduciaria A Cuenta Corriente,Timeout
+SVP,BLP,204,0,Transferencia de cuenta a bolsillo,Transacción Exitosa
+SVP,PSE,1422,106,Pago PSE con tarjeta de crédito,Sistema no disponible en medios de pagos
+APP,APP,1538,2,Transferencias Cuenta Nequi,Documento Sin Tarjetas Inscritas
+SVP,PSE,422,34,Compra Pse Desde Cuenta Corriente,Valor Por Encima De Tope Diario De Transferencia
+APP,APP,1638,2,Transferencia a Nequi sin inscripción ,Cuenta o cliente destino no existe. Te pedimos validarla nuevamente.
+APP,APP,538,54,Transferencia De Fondos Desde Cuenta De Ahorros,Tipo De Cuentas(S) No Autorizada(S) A Transferir
+APP,APP,1638,3,Transferencia a Nequi sin inscripción ,La cuenta destino en FINACLE no se encuentra activa.
+APP,APP,538,32,Transferencia De Fondos Desde Cuenta De Ahorros,Cuenta Origen Tiene Bloqueos
+APP,APP,539,535,Transferencia De Fondos Desde Cuenta De Ahorros A Inversion Fiduciaria,Numero De Dias Mayor Al Permitido
+SVP,BLP,429,980,Pago De Tarjeta De Credito Desde Cuenta Corriente,No Recibi¾ Respuesta Del Servidor Destino - Tc3 - Medios De Pago
+MOV,MOV,202,841,Recarga De Celular,Valor De Recarga Menor Al Minimo Permitido
+APP,APP,539,34,Transferencia De Fondos Desde Cuenta De Ahorros A Inversion Fiduciaria,Valor Por Encima De Tope Diario De Transferencia
+APP,APP,1638,1,Transferencia a Nequi sin inscripción ,El Monto De La Transferencia Supera El Saldo Mßximo Permitido.
+SVP,BLP,640,0,Avance Sucursal Virtual,Transacción Exitosa
+SVP,BLP,513,441,Grabar Constitución- Fid Desde Cuenta Deposito,Horario No Permitido.
+APP,APP,346,30,Pago De Prestamos,Disponible Insuficiente En Cuenta A Debitar
+MOV,ALM,531,30,Pago con Validación de Base de Datos App ALM,Disponinble Insuficiente En Cuenta A Debitar
+APP,APP,538,44,Transferencia De Fondos Desde Cuenta De Ahorros,Traslado No Efectuado
+MOV,MOV,202,52,Recarga De Celular,Clave No Valida
+MOV,ALM,626,0,Consulta de saldos,Transacción Exitosa
+APP,APP,6012,41,Transferencia Cuenta Bancolombia (Ahorros/Corriente) A Cuenta Nequi Pago Qr,Sistema malo (CANAL)
+APP,APP,549,0,Transferencia Desde Inversion Fiduciaria A Cuenta De Ahorros,Transacción Exitosa
+APP,APP,449,0,Transferencia Desde Inversion Fiduciaria A Cuenta Corriente,Transacción Exitosa
+APP,APP,1638,706,Transferencia a Nequi sin inscripción ,Supera Valor Maximo Transacciones Personalizado
+APP,APP,438,28,Transferencia De Fondos Desde Cuenta Corriente,Cuenta Destino No Existe
+APP,APP,531,31,Pago De Facturas Recaudo Referenciado Desde Cuenta De Ahorros,Cuenta Destino Tiene Bloqueos
+APP,APP,2021,80,Transferencia de QR,No es posible realizar esta operación. Comunícate con nuestra Sucursal Telefónica para ayudarte.
+APP,APP,1538,3,Transferencias Cuenta Nequi,En este momento el sistema no está disponible. Intente más tarde.
+MOV,ALM,531,53,Pago con Validación de Base de Datos App ALM,Clave No Valida
+APP,APP,438,690,Transferencia De Fondos Desde Cuenta Corriente,Transaccion No Permitida
+SVP,BLP,364,30,Pago De Credito Hipotecario,Disponible Insuficiente En Cuenta A Debitar
+APP,APP,1638,31,Transferencia a Nequi sin inscripción ,"Lo sentimos, tenemos inconvenientes con nuestros sistemas."
+APP,APP,529,30,Pago De Tarjeta De Credito Desde Cuenta De Ahorros,Disponible Insuficiente En Cuenta A Debitar
+SVP,PSE,522,706,Compra Pse Desde Cuenta De Ahorros,Supera Numero De Operaciones Personalizadas
+APP,APP,1606,0,Recibir dinero/Procesar Solicitud,Transacción exitosa
+MOV,ALM,531,0,Pago con Validación de Base de Datos App ALM,Transacción Exitosa
+SVP,BLP,205,0,Transferencia de bolsillo a cuenta,Transacción Exitosa
+APP,APP,6012,124,Transferencia Cuenta Bancolombia (Ahorros/Corriente) A Cuenta Nequi Pago Qr,No Exitosa
+APP,APP,438,30,Transferencia De Fondos Desde Cuenta Corriente,Disponible Insuficiente En Cuenta A Debitar
+SVP,BLP,1538,31,Transferencias Cuenta Nequi,Identificacion Ingresada No Corresponde Al Titular Del Encargo
+APP,APP,325,0,Simular Inversion Virtual,Transacción Exitosa
+APP,APP,6012,999,Transferencia Cuenta Bancolombia (Ahorros/Corriente) A Cuenta Nequi Pago Qr,No Exitosa
+APP,APP,640,41,Avance de Tarjeta de crédito por APP,Sistema malo (CANAL)
+APP,APP,6010,55,Transferencias Cuenta Bancolombia (Ahorros/Corriente) A Cuenta Bancolombia (Ahorros/Corriente) Pago Qr,La cuenta origen y destino no pueden ser iguales. Por favor verifica e intenta nuevamente.
+APP,APP,539,441,Transferencia De Fondos Desde Cuenta De Ahorros A Inversion Fiduciaria,Fid: Error Horario Transferencias Transf A Cuentas
+APP,APP,2021,55,Transferencia de QR,La cuenta no tiene fondos suficientes para realizar esta transacción.
+SVP,BLP,539,535,Transferencia De Fondos Desde Cuenta De Ahorros A Inversion Fiduciaria,Numero De Dias Mayor Al Permitido
+APP,APP,538,690,Transferencia De Fondos Desde Cuenta De Ahorros,Transaccion No Permitida
+SVP,PSE,522,705,Compra Pse Desde Cuenta De Ahorros,Supera Valor Maximo Personalizado
+APP,APP,6010,705,Transferencias Cuenta Bancolombia (Ahorros/Corriente) A Cuenta Bancolombia (Ahorros/Corriente) Pago Qr,No Exitosa
+MOV,ALM,531,112,Pago con Validación de Base de Datos App ALM,La Cuenta De Ahorro A La Mano No Posee Un Pin
+APP,APP,538,0,Transferencia De Fondos Desde Cuenta De Ahorros,Transacción Exitosa
+APP,APP,529,57,Pago De Tarjeta De Credito Desde Cuenta De Ahorros,Tarjeta De Credito No Existe
+APP,APP,531,0,Pago De Facturas Recaudo Referenciado Desde Cuenta De Ahorros,Transacción Exitosa
+APP,APP,549,70,Transferencia Desde Inversion Fiduciaria A Cuenta De Ahorros,Timeout
+APP,APP,538,4,Transferencia De Fondos Desde Cuenta De Ahorros,LÍmite De Dúbitos Diarios Excedido - Gen_Topetransf_Alm
+SVP,PSE,422,705,Compra Pse Desde Cuenta Corriente,Supera Valor Maximo Personalizado
+APP,APP,538,28,Transferencia De Fondos Desde Cuenta De Ahorros,Cuenta Destino No Existe
+APP,APP,205,0,Transferencia de bolsillo a cuenta,Transacción Exitosa
+MOV,ALM,558,500,Envio de Dinero,"TRANSACCION NO REALIZADA, POR FAVOR INTENTE MAS TARDE"
+MOV,MOV,558,31,Transferencia Comunidad Banca Móvil,Cuenta Destino Tiene Bloqueos
+SVP,BLP,429,636,Pago De Tarjeta De Credito Desde Cuenta Corriente,La Cuenta No Tiene Saldo Suficiente Para La Transaccion - Dep¾Sitos
+APP,APP,1538,1,Transferencias Cuenta Nequi,Documento De Identidad No Valido
+APP,APP,346,321,Pago De Prestamos,Pago No Realizado
+SVP,BLP,449,0,Transferencia Desde Inversion Fiduciaria A Cuenta Corriente,Transacción Exitosa
+SVP,BLP,640,941,Avance Sucursal Virtual,Transacción No Permitida
+SVP,PSE,422,0,Compra Pse Desde Cuenta Corriente,Transacción Exitosa
+SVP,BLP,244,0,Abono a cuenta transferencias internacionales,Transacción Exitosa
+SVP,BLP,438,705,Transferencia De Fondos Desde Cuenta Corriente,Supera Valor Maximo Personalizado
+APP,APP,638,646,Transferencia A Otros Bancos,Fondos Insuficientes En La Cuenta A Debitar
+APP,APP,6010,28,Transferencias Cuenta Bancolombia (Ahorros/Corriente) A Cuenta Bancolombia (Ahorros/Corriente) Pago Qr,"La cuenta destino no existe, por favor verifícala e intenta nuevamente."
+MOV,MOV,202,602,Recarga De Celular,No Posee Cuenta Cats Activa
+APP,APP,529,705,Pago De Tarjeta De Credito Desde Cuenta De Ahorros,Supera Valor Maximo Personalizado
+APP,APP,1638,705,Transferencia a Nequi sin inscripción ,Supera Valor Maximo Personalizado
+SVP,BLP,538,34,Transferencia De Fondos Desde Cuenta De Ahorros,Valor Por Encima De Tope Diario De Transferencia
+APP,APP,640,40,Avance de Tarjeta de crédito por APP,Valor De La Transaccion Invalido
+APP,APP,549,373,Transferencia Desde Inversion Fiduciaria A Cuenta De Ahorros,Fid: Fecha De Operaci¾N No Vßlida Para Retiro
+MOV,MOV,558,52,Transferencia Comunidad Banca Móvil,Clave No Valida
+APP,APP,429,0,Pago De Tarjeta De Credito Desde Cuenta Corriente,Transacción Exitosa
+APP,APP,6012,150,Transferencia Cuenta Bancolombia (Ahorros/Corriente) A Cuenta Nequi Pago Qr,No Exitosa
+APP,APP,438,706,Transferencia De Fondos Desde Cuenta Corriente,Supera Numero De Operaciones Personalizadas
+APP,APP,326,0,Crear Inversion Virtual,Transacción Exitosa
+APP,APP,2021,502,Transferencia de QR,El sistema no está disponible. Estamos trabajando para solucionarlo lo más pronto posible.
+SVP,BLP,538,30,Transferencia De Fondos Desde Cuenta De Ahorros,Disponible Insuficiente En Cuenta A Debitar
+APP,APP,438,705,Transferencia De Fondos Desde Cuenta Corriente,Supera Valor Maximo Personalizado
+SVP,BLP,364,998,Pago De Credito Hipotecario,Supera Maximo De Intentos
+APP,APP,531,4,Pago De Facturas Recaudo Referenciado Desde Cuenta De Ahorros,Cuenta No Autorizada A La Solicitud
+SVP,SVP,326,0,Crear Inversion Virtual,Transacción Exitosa
+APP,APP,2021,100,Transferencia de QR,"Superaste el valor máximo diario o número de transacciones personalizadas. Puedes modificarlo ingresando a la Sucursal Virtual Personas, opción Seguridad, Editar límite de montos."
+MOV,MOV,558,822,Transferencia Comunidad Banca Móvil,Numero De Cuenta Invalido
+MOV,ALM,531,117,Pago con Validación de Base de Datos App ALM,Canal No Vßlido Para El Convenio
+APP,APP,549,510,Transferencia Desde Inversion Fiduciaria A Cuenta De Ahorros,"Fid: No Hay Saldo Disponible 257,259,278,279,280"
+APP,APP,549,412,Transferencia Desde Inversion Fiduciaria A Cuenta De Ahorros,Fid: Monto Retiro Inferior Al Minimo
+APP,APP,531,21,Pago De Facturas Recaudo Referenciado Desde Cuenta De Ahorros,La referencia ingresada no es válida
+APP,APP,549,441,Transferencia Desde Inversion Fiduciaria A Cuenta De Ahorros,Fid: Error Horario Transferencias Transf A Cuentas
