@@ -153,8 +153,10 @@ dmypy.json
 cython_debug/
 
 # Folder
-
 outputs/
+
+# File
+*.pbix
 
 # PyCharm
 #  JetBrains specific template is maintained in a separate JetBrains.gitignore that can
