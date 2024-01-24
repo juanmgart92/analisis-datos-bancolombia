@@ -34,4 +34,4 @@ Python, SQL
 
 ## Authors
 
-- [@octokatherine](https://github.com/juanmgart92)
+- [@juanmgart92](https://github.com/juanmgart92)
