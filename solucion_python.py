@@ -36,7 +36,8 @@ def obtener_canal_con_mayor_suma(itc_df):
 
 def obtener_transacciones_exitosas_con_porcentaje(itc_df, porcentaje=0.7):
     """
-    Obtiene transacciones exitosas donde cada cliente realiza al menos el porcentaje especificado del monto total transferido.
+    Obtiene transacciones exitosas donde cada cliente realiza al menos el porcentaje 
+    especificado del monto total transferido.
     """
     transacciones_exitosas = itc_df[itc_df['cdgrpta'] == 0]
 
